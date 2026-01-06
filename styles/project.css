@@ -100,3 +100,44 @@ nav {
     max-width: 585px;
     vertical-align: middle;
 }
+
+/* About section */
+.about{
+    padding-top: 130px;
+}
+.about-container{
+    background-color: #fff8f3;
+    max-width: 1270px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 150px 178px;
+}
+.about-container .about-heading{}
+.about-container .about-heading h1{}
+.about-container .about-heading p{
+    margin: 10px;
+}
+
+.about-info{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    margin-top: 30px;
+}
+.about-info .info-card{}
+.about-info .info-card p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #afadad;
+}
+.about-info .info-card h2{
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
